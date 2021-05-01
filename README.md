@@ -1,1 +1,1 @@
-# Distrubuted-Transparent-Memory
+# Distributed-Transparent-Memory
